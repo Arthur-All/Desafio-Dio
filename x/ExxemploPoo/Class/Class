@@ -1,0 +1,14 @@
+using System;
+using ExxemploPoo.Models;
+using primeiro; 
+ 
+ namespace primeiro{
+ class Pessoa{
+    public string Name { get; set; }
+    public int Idade { get; set; }
+    public string Estado { get; set; }
+    
+    
+    }
+
+ }

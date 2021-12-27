@@ -1,0 +1,16 @@
+C:\Users\Zubgi\OneDrive\Desktop\GITHUB\Desafio-Dio\x\ExxemploPoo\bin\Debug\net5.0\ExxemploPoo.exe
+C:\Users\Zubgi\OneDrive\Desktop\GITHUB\Desafio-Dio\x\ExxemploPoo\bin\Debug\net5.0\ExxemploPoo.deps.json
+C:\Users\Zubgi\OneDrive\Desktop\GITHUB\Desafio-Dio\x\ExxemploPoo\bin\Debug\net5.0\ExxemploPoo.runtimeconfig.json
+C:\Users\Zubgi\OneDrive\Desktop\GITHUB\Desafio-Dio\x\ExxemploPoo\bin\Debug\net5.0\ExxemploPoo.runtimeconfig.dev.json
+C:\Users\Zubgi\OneDrive\Desktop\GITHUB\Desafio-Dio\x\ExxemploPoo\bin\Debug\net5.0\ExxemploPoo.dll
+C:\Users\Zubgi\OneDrive\Desktop\GITHUB\Desafio-Dio\x\ExxemploPoo\bin\Debug\net5.0\ref\ExxemploPoo.dll
+C:\Users\Zubgi\OneDrive\Desktop\GITHUB\Desafio-Dio\x\ExxemploPoo\bin\Debug\net5.0\ExxemploPoo.pdb
+C:\Users\Zubgi\OneDrive\Desktop\GITHUB\Desafio-Dio\x\ExxemploPoo\obj\Debug\net5.0\ExxemploPoo.csproj.AssemblyReference.cache
+C:\Users\Zubgi\OneDrive\Desktop\GITHUB\Desafio-Dio\x\ExxemploPoo\obj\Debug\net5.0\ExxemploPoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zubgi\OneDrive\Desktop\GITHUB\Desafio-Dio\x\ExxemploPoo\obj\Debug\net5.0\ExxemploPoo.AssemblyInfoInputs.cache
+C:\Users\Zubgi\OneDrive\Desktop\GITHUB\Desafio-Dio\x\ExxemploPoo\obj\Debug\net5.0\ExxemploPoo.AssemblyInfo.cs
+C:\Users\Zubgi\OneDrive\Desktop\GITHUB\Desafio-Dio\x\ExxemploPoo\obj\Debug\net5.0\ExxemploPoo.csproj.CoreCompileInputs.cache
+C:\Users\Zubgi\OneDrive\Desktop\GITHUB\Desafio-Dio\x\ExxemploPoo\obj\Debug\net5.0\ExxemploPoo.dll
+C:\Users\Zubgi\OneDrive\Desktop\GITHUB\Desafio-Dio\x\ExxemploPoo\obj\Debug\net5.0\ref\ExxemploPoo.dll
+C:\Users\Zubgi\OneDrive\Desktop\GITHUB\Desafio-Dio\x\ExxemploPoo\obj\Debug\net5.0\ExxemploPoo.pdb
+C:\Users\Zubgi\OneDrive\Desktop\GITHUB\Desafio-Dio\x\ExxemploPoo\obj\Debug\net5.0\ExxemploPoo.genruntimeconfig.cache
