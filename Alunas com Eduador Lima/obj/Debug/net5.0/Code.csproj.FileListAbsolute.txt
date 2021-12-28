@@ -1,0 +1,16 @@
+C:\Users\Zubgi\Desktop\Code\obj\Debug\net5.0\Code.csproj.AssemblyReference.cache
+C:\Users\Zubgi\Desktop\Code\obj\Debug\net5.0\Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zubgi\Desktop\Code\obj\Debug\net5.0\Code.AssemblyInfoInputs.cache
+C:\Users\Zubgi\Desktop\Code\obj\Debug\net5.0\Code.AssemblyInfo.cs
+C:\Users\Zubgi\Desktop\Code\obj\Debug\net5.0\Code.csproj.CoreCompileInputs.cache
+C:\Users\Zubgi\Desktop\Code\bin\Debug\net5.0\Code.exe
+C:\Users\Zubgi\Desktop\Code\bin\Debug\net5.0\Code.deps.json
+C:\Users\Zubgi\Desktop\Code\bin\Debug\net5.0\Code.runtimeconfig.json
+C:\Users\Zubgi\Desktop\Code\bin\Debug\net5.0\Code.runtimeconfig.dev.json
+C:\Users\Zubgi\Desktop\Code\bin\Debug\net5.0\Code.dll
+C:\Users\Zubgi\Desktop\Code\bin\Debug\net5.0\ref\Code.dll
+C:\Users\Zubgi\Desktop\Code\bin\Debug\net5.0\Code.pdb
+C:\Users\Zubgi\Desktop\Code\obj\Debug\net5.0\Code.dll
+C:\Users\Zubgi\Desktop\Code\obj\Debug\net5.0\ref\Code.dll
+C:\Users\Zubgi\Desktop\Code\obj\Debug\net5.0\Code.pdb
+C:\Users\Zubgi\Desktop\Code\obj\Debug\net5.0\Code.genruntimeconfig.cache
